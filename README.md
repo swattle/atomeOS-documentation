@@ -5,7 +5,9 @@
 The atomeOS documentation supports users to get a greater atomeOS experience. Learn about atomeOS releases, advantages of atomeOS compared to other operating systems, 
 atomeOS tools, its applications, and advanced alternative installation instructions for very old PCs. Developed and maintained under atomeOS Documentation Project.
 
-Documentation is found in the [Wiki](https://github.com/swattle/atomeOS-documentation/wiki) section of the repo.
+Documentation is found in the [Wiki](https://github.com/swattle/atomeOS-documentation/wiki) section of the repository.
+
+Any bugs found in the OS can be reported by opening [issues](https://github.com/swattle/atomeOS-documentation/issues) in this repository. Refer [CONTRIBUTING.md](https://github.com/swattle/atomeOS-documentation/blob/master/CONTRIBUTING.md) before doing so.
 
 ## Table of Contents
 
